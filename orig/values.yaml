@@ -2,4 +2,4 @@ extraEnvVars:
 - name: LOCALSTACK_API_KEY
   value: API_KEY
 - name: SERVICES
-  value: s3,ec2,eks
+  value: s3,ec2,eks,iam,ecr,rds
