@@ -8,4 +8,4 @@ spec:
     dbInstanceClass: db.m5.large
     engine: postgres
     masterUsername: admin123
-    allocatedStorage: 1000
+    allocatedStorage: 2000
